@@ -1,0 +1,14 @@
+{
+  "appname": "Knuckles 08172016",
+  "scope": "BuyerAdmin BuyerReader FullAccess",
+  "clientid": "BD7E56AE-5F0B-4464-9BE7-34D30D482701",
+  "buyerid": "test455",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
